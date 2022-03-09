@@ -1,0 +1,24 @@
+{
+  "name": "FinalTest_20220309",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evas911/ft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evas911/ft/issues"
+  },
+  "homepage": "https://github.com/evas911/ft#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
